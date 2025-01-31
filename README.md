@@ -96,18 +96,14 @@ The intent matching system is implemented using **TF-IDF vectorization** and a *
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repository/high-priest-chatbot.git
+   git clone https://github.com/HShawnSun/High-Priest-of-Luxor.git
    cd high-priest-chatbot
    ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Run the chatbot:
+2. Run the chatbot:
    ```sh
    python high_priest.py
    ```
-4. Interact with the chatbot by following prompts and exploring different functionalities.
+3. Interact with the chatbot by following prompts and exploring different functionalities.
 
 ## Future Enhancements
 
