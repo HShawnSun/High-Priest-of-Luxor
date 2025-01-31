@@ -1,4 +1,4 @@
-# High Priest of Luxor
+# High Priest of Luxor: A Sacrificial Offering Agent
 
 ## Overview
 
