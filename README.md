@@ -11,7 +11,7 @@ The **High Priest** chatbot is designed to assist users in engaging with ancient
 
 ### Intent Matching
 
-![Intent Matching](Intent Matching.png)
+![Intent Matching](Intent_Matching.png)
 
 The chatbot classifies user intentions into **ten distinct intent types**:
 
