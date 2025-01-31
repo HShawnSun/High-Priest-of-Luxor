@@ -29,7 +29,9 @@ The chatbot classifies user intentions into **ten distinct intent types**:
 The intent matching system is implemented using **TF-IDF vectorization** and a **logistic regression model**, making it more flexible and scalable than traditional rule-based approaches.
 
 ### Sacrificial Offering System
+
 ![Flowchart](Flowchart.png)
+
 - Users can **dedicate offerings** to Egyptian deities through a structured **Sacrifice Pipeline**.
 - The chatbot assists users in **identifying the appropriate deity** based on their prayers.
 - Recognized deities include:
