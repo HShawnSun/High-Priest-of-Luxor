@@ -101,7 +101,7 @@ The intent matching system is implemented using **TF-IDF vectorization** and a *
    ```
 2. Run the chatbot:
    ```sh
-   python high_priest.py
+   python main.py
    ```
 3. Interact with the chatbot by following prompts and exploring different functionalities.
 
