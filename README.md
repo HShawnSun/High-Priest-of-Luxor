@@ -1,9 +1,7 @@
 # High Priest of Luxor: A Sacrificial Offering Agent
 
 ## Overview
-
-![Luxor](Luxor.jpg)
-
+<img src="Luxor.jpg" alt="Luxor" width="80%">
 
 The **High Priest** chatbot is designed to assist users in engaging with ancient Egyptian cultural and spiritual practices, particularly within the context of the Luxor Temple in Thebes. The chatbot facilitates sacrificial offerings to various Egyptian deities, ensuring that rituals align with historical traditions. By leveraging machine learning, semantic understanding, and vectorization techniques, the chatbot provides a natural, intuitive, and immersive user experience.
 
@@ -11,7 +9,7 @@ The **High Priest** chatbot is designed to assist users in engaging with ancient
 
 ### Intent Matching
 
-![Intent Matching](Intent_Matching.png)
+<img src="Intent——Matching.png" alt="Intent Matching" width="60%">
 
 The chatbot classifies user intentions into **ten distinct intent types**:
 
